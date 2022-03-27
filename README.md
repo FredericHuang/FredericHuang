@@ -1,7 +1,7 @@
 Bonjour, je m'apelle Frédéric Huang
 
 J'étudie actuellement l'informatique en BUT informatique à l'Université Sorbonne Paris Nord
-afin de pouvoir chercher un travail dans le domaine Informatique en d' sera pour mes projet effectuer au cours de mon parcours.
+afin de pouvoir chercher un travail dans le domaine Informatique en d'autre terme ce GitGub sera pour mes projet effectuer au cours de mon parcours.
 
 Si mes compétences vous intéresse, vous pouvez me contacter via frederic.huang1@hotmail.com
 
