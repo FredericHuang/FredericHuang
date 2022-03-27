@@ -1,4 +1,4 @@
-Bonjour, je suis @FredericHuang
+Bonjour, je m'apelle Frédéric Huang
 
 J'étudie actuellement l'informatique en BUT informatique à l'Université Sorbonne Paris Nord
 afin de pouvoir chercher un travail dans le domaine Informatique en d' sera pour mes projet effectuer au cours de mon parcours.
